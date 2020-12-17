@@ -1,0 +1,4 @@
+OBJECT_BASE 170667.btg
+OBJECT PJON.btg
+OBJECT_SHARED Models/Airport/windsock.xml -169.524320 16.732991 7.6 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -169.542933 16.724600 7.5 0.00
